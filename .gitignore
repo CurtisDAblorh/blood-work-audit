@@ -1,0 +1,6 @@
+node_modules
+dist
+*.local
+.DS_Store
+# raw dataset (32 MB); public/data is generated from it with `npm run data`
+source-data/

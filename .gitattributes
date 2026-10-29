@@ -1,0 +1,8 @@
+# keep binary assets byte-for-byte (no line-ending conversion)
+*.pdf binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.glb binary
+*.woff binary
+*.woff2 binary
